@@ -1,0 +1,5 @@
+{
+  "port": 3000,
+  "root": "/Users/liaili/project/node-demo",
+  "indexPage": "index.html"
+}
